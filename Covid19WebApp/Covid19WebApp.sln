@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19.Web", "Covid19.Web\Covid19.Web.csproj", "{9E4EBDF2-04C5-4B35-9EC2-A91A1F0F583B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4EBDF2-04C5-4B35-9EC2-A91A1F0F583B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4EBDF2-04C5-4B35-9EC2-A91A1F0F583B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4EBDF2-04C5-4B35-9EC2-A91A1F0F583B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4EBDF2-04C5-4B35-9EC2-A91A1F0F583B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
