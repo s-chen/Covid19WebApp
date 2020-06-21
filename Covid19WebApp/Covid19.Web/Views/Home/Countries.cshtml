@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Covid19.Core.RetrieveDataService.Domain.Country>
+
+@{
+    ViewData["Title"] = "Countries";
+}
+
+<div class="text-center">
+    <p>Country List</p>
+</div>
+
+
+<div>
+    @foreach (var country in Model)
+    {
+        <p>@country.Name</p>
+    }
+</div>
